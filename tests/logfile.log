@@ -1,0 +1,360 @@
+2023-04-17 16:54:25,387 :INFO :test_e2e :Getting the all cart titles
+2023-04-17 16:54:25,407 :INFO :test_e2e :iphone X
+2023-04-17 16:54:25,421 :INFO :test_e2e :Samsung Note 8
+2023-04-17 16:54:25,431 :INFO :test_e2e :Nokia Edge
+2023-04-17 16:54:25,441 :INFO :test_e2e :Blackberry
+2023-04-17 16:54:25,586 :INFO :test_e2e :Entering Country Name as in Ind
+2023-04-17 16:54:30,846 :INFO :test_e2e :Text received from application is : ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-04-17 16:56:38,375 :INFO :test_e2e :Getting the all cart titles
+2023-04-17 16:56:38,396 :INFO :test_e2e :Cart text is : iphone X
+2023-04-17 16:56:38,407 :INFO :test_e2e :Cart text is : Samsung Note 8
+2023-04-17 16:56:38,419 :INFO :test_e2e :Cart text is : Nokia Edge
+2023-04-17 16:56:38,429 :INFO :test_e2e :Cart text is : Blackberry
+2023-04-17 16:56:38,562 :INFO :test_e2e :Entering Country Name as in Ind
+2023-04-17 16:56:43,843 :INFO :test_e2e :Text received from application is : ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-04-17 17:00:09,210 :INFO :test_e2e :Getting the all cart titles
+2023-04-17 17:00:09,230 :INFO :test_e2e :Cart text is : iphone X
+2023-04-17 17:00:09,241 :INFO :test_e2e :Cart text is : Samsung Note 8
+2023-04-17 17:00:09,252 :INFO :test_e2e :Cart text is : Nokia Edge
+2023-04-17 17:00:09,261 :INFO :test_e2e :Cart text is : Blackberry
+2023-04-17 17:00:09,410 :INFO :test_e2e :Entering Country Name as in Ind
+2023-04-17 17:00:14,669 :INFO :test_e2e :Text received from application is : ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-04-17 17:00:21,421 :INFO :test_formSubmission :Name is : Gaganpreet S Mann
+2023-04-17 17:00:21,541 :INFO :test_formSubmission :emailID is : gaganmann@gmail.com
+2023-04-17 17:00:21,770 :INFO :test_formSubmission :Gender is : Female
+2023-04-17 17:00:22,498 :INFO :test_formSubmission :Name is : Parvinder Pal
+2023-04-17 17:00:22,498 :INFO :test_formSubmission :Name is : Parvinder Pal
+2023-04-17 17:00:22,585 :INFO :test_formSubmission :emailID is : parvinderpal@yahoo.com
+2023-04-17 17:00:22,585 :INFO :test_formSubmission :emailID is : parvinderpal@yahoo.com
+2023-04-17 17:00:22,788 :INFO :test_formSubmission :Gender is : Female
+2023-04-17 17:00:22,788 :INFO :test_formSubmission :Gender is : Female
+2023-04-17 17:21:16,259 :INFO :test_e2e :Getting the all cart titles
+2023-04-17 17:21:16,284 :INFO :test_e2e :Cart text is : iphone X
+2023-04-17 17:21:16,294 :INFO :test_e2e :Cart text is : Samsung Note 8
+2023-04-17 17:21:16,307 :INFO :test_e2e :Cart text is : Nokia Edge
+2023-04-17 17:21:16,317 :INFO :test_e2e :Cart text is : Blackberry
+2023-04-17 17:21:16,457 :INFO :test_e2e :Entering Country Name as in Ind
+2023-04-17 17:21:21,723 :INFO :test_e2e :Text received from application is : ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-04-17 17:21:27,780 :INFO :test_formSubmission :Name is : Gaganpreet S Mann
+2023-04-17 17:21:27,906 :INFO :test_formSubmission :emailID is : gaganmann@gmail.com
+2023-04-17 17:21:28,095 :INFO :test_formSubmission :Gender is : Female
+2023-04-17 17:21:28,786 :INFO :test_formSubmission :Name is : Parvinder Pal
+2023-04-17 17:21:28,786 :INFO :test_formSubmission :Name is : Parvinder Pal
+2023-04-17 17:21:28,857 :INFO :test_formSubmission :emailID is : parvinderpal@yahoo.com
+2023-04-17 17:21:28,857 :INFO :test_formSubmission :emailID is : parvinderpal@yahoo.com
+2023-04-17 17:21:29,038 :INFO :test_formSubmission :Gender is : Female
+2023-04-17 17:21:29,038 :INFO :test_formSubmission :Gender is : Female
+2023-04-17 17:59:18,819 :INFO :test_e2e :Getting the all cart titles
+2023-04-17 17:59:18,854 :INFO :test_e2e :Cart text is : iphone X
+2023-04-17 17:59:18,867 :INFO :test_e2e :Cart text is : Samsung Note 8
+2023-04-17 17:59:18,881 :INFO :test_e2e :Cart text is : Nokia Edge
+2023-04-17 17:59:18,892 :INFO :test_e2e :Cart text is : Blackberry
+2023-04-17 17:59:19,069 :INFO :test_e2e :Entering Country Name as in Ind
+2023-04-17 17:59:24,367 :INFO :test_e2e :Text received from application is : ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-04-17 17:59:28,907 :INFO :test_formSubmission :Name is : Gaganpreet S Mann
+2023-04-17 17:59:29,010 :INFO :test_formSubmission :emailID is : gaganmann@gmail.com
+2023-04-17 17:59:29,327 :INFO :test_formSubmission :Gender is : Female
+2023-04-17 17:59:30,128 :INFO :test_formSubmission :Name is : Parvinder Pal
+2023-04-17 17:59:30,128 :INFO :test_formSubmission :Name is : Parvinder Pal
+2023-04-17 17:59:30,209 :INFO :test_formSubmission :emailID is : parvinderpal@yahoo.com
+2023-04-17 17:59:30,209 :INFO :test_formSubmission :emailID is : parvinderpal@yahoo.com
+2023-04-17 17:59:30,399 :INFO :test_formSubmission :Gender is : Female
+2023-04-17 17:59:30,399 :INFO :test_formSubmission :Gender is : Female
+2023-04-17 18:02:25,818 :INFO :test_e2e :Getting the all cart titles
+2023-04-17 18:02:25,840 :INFO :test_e2e :Cart text is : iphone X
+2023-04-17 18:02:25,851 :INFO :test_e2e :Cart text is : Samsung Note 8
+2023-04-17 18:02:25,861 :INFO :test_e2e :Cart text is : Nokia Edge
+2023-04-17 18:02:25,870 :INFO :test_e2e :Cart text is : Blackberry
+2023-04-17 18:02:25,977 :INFO :test_e2e :Entering Country Name as in Ind
+2023-04-17 18:02:31,221 :INFO :test_e2e :Text received from application is : ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-04-17 18:02:35,688 :INFO :test_formSubmission :Name is : Gaganpreet S Mann
+2023-04-17 18:02:35,777 :INFO :test_formSubmission :emailID is : gaganmann@gmail.com
+2023-04-17 18:02:35,958 :INFO :test_formSubmission :Gender is : Female
+2023-04-17 18:02:36,608 :INFO :test_formSubmission :Name is : Parvinder Pal
+2023-04-17 18:02:36,608 :INFO :test_formSubmission :Name is : Parvinder Pal
+2023-04-17 18:02:36,680 :INFO :test_formSubmission :emailID is : parvinderpal@yahoo.com
+2023-04-17 18:02:36,680 :INFO :test_formSubmission :emailID is : parvinderpal@yahoo.com
+2023-04-17 18:02:36,836 :INFO :test_formSubmission :Gender is : Female
+2023-04-17 18:02:36,836 :INFO :test_formSubmission :Gender is : Female
+2023-04-18 10:48:01,941 :INFO :test_e2e :Getting the all cart titles
+2023-04-18 10:48:01,964 :INFO :test_e2e :Cart text is : iphone X
+2023-04-18 10:48:01,973 :INFO :test_e2e :Cart text is : Samsung Note 8
+2023-04-18 10:48:01,983 :INFO :test_e2e :Cart text is : Nokia Edge
+2023-04-18 10:48:01,993 :INFO :test_e2e :Cart text is : Blackberry
+2023-04-18 10:48:02,116 :INFO :test_e2e :Entering Country Name as in Ind
+2023-04-18 10:48:07,313 :INFO :test_e2e :Text received from application is : ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-04-18 10:48:11,452 :INFO :test_formSubmission :Name is : Gaganpreet S Mann
+2023-04-18 10:48:11,561 :INFO :test_formSubmission :emailID is : gaganmann@gmail.com
+2023-04-18 10:48:11,743 :INFO :test_formSubmission :Gender is : Female
+2023-04-18 10:48:13,008 :INFO :test_formSubmission :Name is : Parvinder Pal
+2023-04-18 10:48:13,008 :INFO :test_formSubmission :Name is : Parvinder Pal
+2023-04-18 10:48:13,071 :INFO :test_formSubmission :emailID is : parvinderpal@yahoo.com
+2023-04-18 10:48:13,071 :INFO :test_formSubmission :emailID is : parvinderpal@yahoo.com
+2023-04-18 10:48:13,221 :INFO :test_formSubmission :Gender is : Female
+2023-04-18 10:48:13,221 :INFO :test_formSubmission :Gender is : Female
+2023-04-18 10:56:51,632 :INFO :test_formSubmission :Name is : Gaganpreet S Mann
+2023-04-18 10:56:51,711 :INFO :test_formSubmission :emailID is : gaganmann@gmail.com
+2023-04-18 10:56:51,883 :INFO :test_formSubmission :Gender is : Female
+2023-04-18 10:56:52,513 :INFO :test_formSubmission :Name is : Parvinder Pal
+2023-04-18 10:56:52,513 :INFO :test_formSubmission :Name is : Parvinder Pal
+2023-04-18 10:56:52,582 :INFO :test_formSubmission :emailID is : parvinderpal@yahoo.com
+2023-04-18 10:56:52,582 :INFO :test_formSubmission :emailID is : parvinderpal@yahoo.com
+2023-04-18 10:56:52,725 :INFO :test_formSubmission :Gender is : Female
+2023-04-18 10:56:52,725 :INFO :test_formSubmission :Gender is : Female
+2023-04-18 10:57:11,483 :INFO :test_formSubmission :Name is : Gaganpreet S Mann
+2023-04-18 10:57:11,567 :INFO :test_formSubmission :emailID is : gaganmann@gmail.com
+2023-04-18 10:57:11,716 :INFO :test_formSubmission :Gender is : Female
+2023-04-18 10:57:12,329 :INFO :test_formSubmission :Name is : Parvinder Pal
+2023-04-18 10:57:12,329 :INFO :test_formSubmission :Name is : Parvinder Pal
+2023-04-18 10:57:12,402 :INFO :test_formSubmission :emailID is : parvinderpal@yahoo.com
+2023-04-18 10:57:12,402 :INFO :test_formSubmission :emailID is : parvinderpal@yahoo.com
+2023-04-18 10:57:12,566 :INFO :test_formSubmission :Gender is : Female
+2023-04-18 10:57:12,566 :INFO :test_formSubmission :Gender is : Female
+2023-04-18 10:57:30,435 :INFO :test_formSubmission :Name is : Gaganpreet S Mann
+2023-04-18 10:57:30,518 :INFO :test_formSubmission :emailID is : gaganmann@gmail.com
+2023-04-18 10:57:30,670 :INFO :test_formSubmission :Gender is : Female
+2023-04-18 10:57:31,280 :INFO :test_formSubmission :Name is : Parvinder Pal
+2023-04-18 10:57:31,280 :INFO :test_formSubmission :Name is : Parvinder Pal
+2023-04-18 10:57:31,349 :INFO :test_formSubmission :emailID is : parvinderpal@yahoo.com
+2023-04-18 10:57:31,349 :INFO :test_formSubmission :emailID is : parvinderpal@yahoo.com
+2023-04-18 10:57:31,488 :INFO :test_formSubmission :Gender is : Female
+2023-04-18 10:57:31,488 :INFO :test_formSubmission :Gender is : Female
+2023-04-18 10:57:41,837 :INFO :test_e2e :Getting the all cart titles
+2023-04-18 10:57:41,857 :INFO :test_e2e :Cart text is : iphone X
+2023-04-18 10:57:41,866 :INFO :test_e2e :Cart text is : Samsung Note 8
+2023-04-18 10:57:41,874 :INFO :test_e2e :Cart text is : Nokia Edge
+2023-04-18 10:57:41,883 :INFO :test_e2e :Cart text is : Blackberry
+2023-04-18 10:57:41,996 :INFO :test_e2e :Entering Country Name as in Ind
+2023-04-18 10:57:47,230 :INFO :test_e2e :Text received from application is : ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-04-18 11:30:44,493 :INFO :test_e2e :Getting the all cart titles
+2023-04-18 11:30:44,514 :INFO :test_e2e :Cart text is : iphone X
+2023-04-18 11:30:44,527 :INFO :test_e2e :Cart text is : Samsung Note 8
+2023-04-18 11:30:44,539 :INFO :test_e2e :Cart text is : Nokia Edge
+2023-04-18 11:30:44,547 :INFO :test_e2e :Cart text is : Blackberry
+2023-04-18 11:30:44,671 :INFO :test_e2e :Entering Country Name as in Ind
+2023-04-18 11:30:49,943 :INFO :test_e2e :Text received from application is : ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-04-18 11:30:54,380 :INFO :test_formSubmission :Name is : Gaganpreet S Mann
+2023-04-18 11:30:54,468 :INFO :test_formSubmission :emailID is : gaganmann@gmail.com
+2023-04-18 11:30:54,653 :INFO :test_formSubmission :Gender is : Female
+2023-04-18 11:30:55,289 :INFO :test_formSubmission :Name is : Parvinder Pal
+2023-04-18 11:30:55,289 :INFO :test_formSubmission :Name is : Parvinder Pal
+2023-04-18 11:30:55,356 :INFO :test_formSubmission :emailID is : parvinderpal@yahoo.com
+2023-04-18 11:30:55,356 :INFO :test_formSubmission :emailID is : parvinderpal@yahoo.com
+2023-04-18 11:30:55,520 :INFO :test_formSubmission :Gender is : Female
+2023-04-18 11:30:55,520 :INFO :test_formSubmission :Gender is : Female
+2023-04-18 11:41:32,159 :INFO :test_e2e :Getting the all cart titles
+2023-04-18 11:41:32,183 :INFO :test_e2e :Cart text is : iphone X
+2023-04-18 11:41:32,195 :INFO :test_e2e :Cart text is : Samsung Note 8
+2023-04-18 11:41:32,205 :INFO :test_e2e :Cart text is : Nokia Edge
+2023-04-18 11:41:32,219 :INFO :test_e2e :Cart text is : Blackberry
+2023-04-18 11:41:32,356 :INFO :test_e2e :Entering Country Name as in Ind
+2023-04-18 11:41:37,671 :INFO :test_e2e :Text received from application is : ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-04-18 11:41:44,328 :INFO :test_formSubmission :Name is : Gaganpreet S Mann
+2023-04-18 11:41:44,412 :INFO :test_formSubmission :emailID is : gaganmann@gmail.com
+2023-04-18 11:41:44,597 :INFO :test_formSubmission :Gender is : Female
+2023-04-18 11:41:45,267 :INFO :test_formSubmission :Name is : Parvinder Pal
+2023-04-18 11:41:45,267 :INFO :test_formSubmission :Name is : Parvinder Pal
+2023-04-18 11:41:45,326 :INFO :test_formSubmission :emailID is : parvinderpal@yahoo.com
+2023-04-18 11:41:45,326 :INFO :test_formSubmission :emailID is : parvinderpal@yahoo.com
+2023-04-18 11:41:45,497 :INFO :test_formSubmission :Gender is : Female
+2023-04-18 11:41:45,497 :INFO :test_formSubmission :Gender is : Female
+2023-04-18 11:43:12,400 :INFO :test_e2e :Getting the all cart titles
+2023-04-18 11:43:12,431 :INFO :test_e2e :Cart text is : iphone X
+2023-04-18 11:43:12,440 :INFO :test_e2e :Cart text is : Samsung Note 8
+2023-04-18 11:43:12,450 :INFO :test_e2e :Cart text is : Nokia Edge
+2023-04-18 11:43:12,462 :INFO :test_e2e :Cart text is : Blackberry
+2023-04-18 11:43:12,629 :INFO :test_e2e :Entering Country Name as in Ind
+2023-04-18 11:43:17,971 :INFO :test_e2e :Text received from application is : ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-04-18 11:43:24,826 :INFO :test_formSubmission :Name is : Gaganpreet S Mann
+2023-04-18 11:43:24,921 :INFO :test_formSubmission :emailID is : gaganmann@gmail.com
+2023-04-18 11:43:25,093 :INFO :test_formSubmission :Gender is : Female
+2023-04-18 11:43:25,767 :INFO :test_formSubmission :Name is : Parvinder Pal
+2023-04-18 11:43:25,767 :INFO :test_formSubmission :Name is : Parvinder Pal
+2023-04-18 11:43:25,844 :INFO :test_formSubmission :emailID is : parvinderpal@yahoo.com
+2023-04-18 11:43:25,844 :INFO :test_formSubmission :emailID is : parvinderpal@yahoo.com
+2023-04-18 11:43:26,019 :INFO :test_formSubmission :Gender is : Female
+2023-04-18 11:43:26,019 :INFO :test_formSubmission :Gender is : Female
+2023-04-18 11:52:41,329 :INFO :test_e2e :Getting the all cart titles
+2023-04-18 11:52:41,358 :INFO :test_e2e :Cart text is : iphone X
+2023-04-18 11:52:41,370 :INFO :test_e2e :Cart text is : Samsung Note 8
+2023-04-18 11:52:41,381 :INFO :test_e2e :Cart text is : Nokia Edge
+2023-04-18 11:52:41,390 :INFO :test_e2e :Cart text is : Blackberry
+2023-04-18 11:52:41,537 :INFO :test_e2e :Entering Country Name as in Ind
+2023-04-18 11:52:46,784 :INFO :test_e2e :Text received from application is : ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-04-18 11:52:51,035 :INFO :test_formSubmission :Name is : Gaganpreet S Mann
+2023-04-18 11:52:51,152 :INFO :test_formSubmission :emailID is : gaganmann@gmail.com
+2023-04-18 11:52:51,366 :INFO :test_formSubmission :Gender is : Female
+2023-04-18 11:52:52,060 :INFO :test_formSubmission :Name is : Parvinder Pal
+2023-04-18 11:52:52,060 :INFO :test_formSubmission :Name is : Parvinder Pal
+2023-04-18 11:52:52,147 :INFO :test_formSubmission :emailID is : parvinderpal@yahoo.com
+2023-04-18 11:52:52,147 :INFO :test_formSubmission :emailID is : parvinderpal@yahoo.com
+2023-04-18 11:52:52,371 :INFO :test_formSubmission :Gender is : Female
+2023-04-18 11:52:52,371 :INFO :test_formSubmission :Gender is : Female
+2023-04-18 11:56:23,298 :INFO :test_e2e :Getting the all cart titles
+2023-04-18 11:56:23,319 :INFO :test_e2e :Cart text is : iphone X
+2023-04-18 11:56:23,327 :INFO :test_e2e :Cart text is : Samsung Note 8
+2023-04-18 11:56:23,336 :INFO :test_e2e :Cart text is : Nokia Edge
+2023-04-18 11:56:23,346 :INFO :test_e2e :Cart text is : Blackberry
+2023-04-18 11:56:23,483 :INFO :test_e2e :Entering Country Name as in Ind
+2023-04-18 11:56:28,772 :INFO :test_e2e :Text received from application is : ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-04-18 11:56:35,421 :INFO :test_formSubmission :Name is : Gaganpreet S Mann
+2023-04-18 11:56:35,527 :INFO :test_formSubmission :emailID is : gaganmann@gmail.com
+2023-04-18 11:56:35,729 :INFO :test_formSubmission :Gender is : Female
+2023-04-18 11:56:36,493 :INFO :test_formSubmission :Name is : Parvinder Pal
+2023-04-18 11:56:36,493 :INFO :test_formSubmission :Name is : Parvinder Pal
+2023-04-18 11:56:36,564 :INFO :test_formSubmission :emailID is : parvinderpal@yahoo.com
+2023-04-18 11:56:36,564 :INFO :test_formSubmission :emailID is : parvinderpal@yahoo.com
+2023-04-18 11:56:36,731 :INFO :test_formSubmission :Gender is : Female
+2023-04-18 11:56:36,731 :INFO :test_formSubmission :Gender is : Female
+2023-04-18 11:57:24,799 :INFO :test_e2e :Getting the all cart titles
+2023-04-18 11:57:24,830 :INFO :test_e2e :Cart text is : iphone X
+2023-04-18 11:57:24,842 :INFO :test_e2e :Cart text is : Samsung Note 8
+2023-04-18 11:57:24,856 :INFO :test_e2e :Cart text is : Nokia Edge
+2023-04-18 11:57:24,871 :INFO :test_e2e :Cart text is : Blackberry
+2023-04-18 11:57:25,023 :INFO :test_e2e :Entering Country Name as in Ind
+2023-04-18 11:57:30,271 :INFO :test_e2e :Text received from application is : ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-04-18 11:57:36,056 :INFO :test_formSubmission :Name is : Gaganpreet S Mann
+2023-04-18 11:57:36,155 :INFO :test_formSubmission :emailID is : gaganmann@gmail.com
+2023-04-18 11:57:36,335 :INFO :test_formSubmission :Gender is : Female
+2023-04-18 11:57:36,984 :INFO :test_formSubmission :Name is : Parvinder Pal
+2023-04-18 11:57:36,984 :INFO :test_formSubmission :Name is : Parvinder Pal
+2023-04-18 11:57:37,037 :INFO :test_formSubmission :emailID is : parvinderpal@yahoo.com
+2023-04-18 11:57:37,037 :INFO :test_formSubmission :emailID is : parvinderpal@yahoo.com
+2023-04-18 11:57:37,199 :INFO :test_formSubmission :Gender is : Female
+2023-04-18 11:57:37,199 :INFO :test_formSubmission :Gender is : Female
+2023-04-18 13:46:54,512 :INFO :test_formSubmission :Name is : Parvinder
+2023-04-18 13:46:54,599 :INFO :test_formSubmission :emailID is : parvinder@gmail.com
+2023-04-18 13:46:54,805 :INFO :test_formSubmission :Gender is : Female
+2023-04-18 13:47:21,877 :INFO :test_formSubmission :Name is : Parvinder
+2023-04-18 13:47:21,943 :INFO :test_formSubmission :emailID is : parvinder@gmail.com
+2023-04-18 13:47:22,086 :INFO :test_formSubmission :Gender is : Female
+2023-04-18 13:48:00,381 :INFO :test_formSubmission :Name is : Parvinder
+2023-04-18 13:48:00,474 :INFO :test_formSubmission :emailID is : parvinder@gmail.com
+2023-04-18 13:48:00,669 :INFO :test_formSubmission :Gender is : Female
+2023-04-18 13:52:14,385 :INFO :test_e2e :Getting the all cart titles
+2023-04-18 13:52:14,404 :INFO :test_e2e :Cart text is : iphone X
+2023-04-18 13:52:14,414 :INFO :test_e2e :Cart text is : Samsung Note 8
+2023-04-18 13:52:14,424 :INFO :test_e2e :Cart text is : Nokia Edge
+2023-04-18 13:52:14,437 :INFO :test_e2e :Cart text is : Blackberry
+2023-04-18 13:52:14,552 :INFO :test_e2e :Entering Country Name as in Ind
+2023-04-18 13:52:19,823 :INFO :test_e2e :Text received from application is : ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-04-18 13:52:26,226 :INFO :test_formSubmission :Name is : Parvinder
+2023-04-18 13:52:26,296 :INFO :test_formSubmission :emailID is : parvinder@gmail.com
+2023-04-18 13:52:26,470 :INFO :test_formSubmission :Gender is : Female
+2023-04-18 14:03:04,718 :INFO :test_formSubmission :Name is : Parvinder
+2023-04-18 14:03:04,785 :INFO :test_formSubmission :emailID is : parvinder@gmail.com
+2023-04-18 14:03:04,929 :INFO :test_formSubmission :Gender is : Female
+2023-04-18 14:04:12,959 :INFO :test_e2e :Getting the all cart titles
+2023-04-18 14:04:12,981 :INFO :test_e2e :Cart text is : iphone X
+2023-04-18 14:04:12,991 :INFO :test_e2e :Cart text is : Samsung Note 8
+2023-04-18 14:04:13,001 :INFO :test_e2e :Cart text is : Nokia Edge
+2023-04-18 14:04:13,011 :INFO :test_e2e :Cart text is : Blackberry
+2023-04-18 14:04:13,138 :INFO :test_e2e :Entering Country Name as in Ind
+2023-04-18 14:04:18,492 :INFO :test_e2e :Text received from application is : ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-04-18 14:04:24,855 :INFO :test_formSubmission :Name is : Parvinder
+2023-04-18 14:04:24,942 :INFO :test_formSubmission :emailID is : parvinder@gmail.com
+2023-04-18 14:04:25,099 :INFO :test_formSubmission :Gender is : Female
+2023-04-18 14:06:34,572 :INFO :test_e2e :Getting the all cart titles
+2023-04-18 14:06:34,592 :INFO :test_e2e :Cart text is : iphone X
+2023-04-18 14:06:34,604 :INFO :test_e2e :Cart text is : Samsung Note 8
+2023-04-18 14:06:34,614 :INFO :test_e2e :Cart text is : Nokia Edge
+2023-04-18 14:06:34,624 :INFO :test_e2e :Cart text is : Blackberry
+2023-04-18 14:06:34,758 :INFO :test_e2e :Entering Country Name as in Ind
+2023-04-18 14:06:40,031 :INFO :test_e2e :Text received from application is : ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-04-18 14:06:47,105 :INFO :test_formSubmission :Name is : Parvinder
+2023-04-18 14:06:47,178 :INFO :test_formSubmission :emailID is : parvinder@gmail.com
+2023-04-18 14:06:47,364 :INFO :test_formSubmission :Gender is : Female
+2023-04-18 14:09:52,681 :INFO :test_e2e :Getting the all cart titles
+2023-04-18 14:09:52,704 :INFO :test_e2e :Cart text is : iphone X
+2023-04-18 14:09:52,716 :INFO :test_e2e :Cart text is : Samsung Note 8
+2023-04-18 14:09:52,727 :INFO :test_e2e :Cart text is : Nokia Edge
+2023-04-18 14:09:52,736 :INFO :test_e2e :Cart text is : Blackberry
+2023-04-18 14:09:52,868 :INFO :test_e2e :Entering Country Name as in Ind
+2023-04-18 14:09:58,134 :INFO :test_e2e :Text received from application is : ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-04-18 14:10:04,164 :INFO :test_formSubmission :Name is : Parvinder
+2023-04-18 14:10:04,234 :INFO :test_formSubmission :emailID is : parvinder@gmail.com
+2023-04-18 14:10:04,411 :INFO :test_formSubmission :Gender is : Female
+2023-04-18 14:11:03,819 :INFO :test_e2e :Getting the all cart titles
+2023-04-18 14:11:03,847 :INFO :test_e2e :Cart text is : iphone X
+2023-04-18 14:11:03,860 :INFO :test_e2e :Cart text is : Samsung Note 8
+2023-04-18 14:11:03,872 :INFO :test_e2e :Cart text is : Nokia Edge
+2023-04-18 14:11:03,886 :INFO :test_e2e :Cart text is : Blackberry
+2023-04-18 14:11:04,045 :INFO :test_e2e :Entering Country Name as in Ind
+2023-04-18 14:11:09,358 :INFO :test_e2e :Text received from application is : ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-04-18 14:11:13,639 :INFO :test_formSubmission :Name is : Parvinder
+2023-04-18 14:11:13,728 :INFO :test_formSubmission :emailID is : parvinder@gmail.com
+2023-04-18 14:11:13,930 :INFO :test_formSubmission :Gender is : Female
+2023-04-18 14:11:44,589 :INFO :test_e2e :Getting the all cart titles
+2023-04-18 14:11:44,624 :INFO :test_e2e :Cart text is : iphone X
+2023-04-18 14:11:44,645 :INFO :test_e2e :Cart text is : Samsung Note 8
+2023-04-18 14:11:44,667 :INFO :test_e2e :Cart text is : Nokia Edge
+2023-04-18 14:11:44,686 :INFO :test_e2e :Cart text is : Blackberry
+2023-04-18 14:11:44,910 :INFO :test_e2e :Entering Country Name as in Ind
+2023-04-18 14:11:50,520 :INFO :test_e2e :Text received from application is : ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-04-18 14:11:56,856 :INFO :test_formSubmission :Name is : Parvinder
+2023-04-18 14:11:56,989 :INFO :test_formSubmission :emailID is : parvinder@gmail.com
+2023-04-18 14:11:57,342 :INFO :test_formSubmission :Gender is : Female
+2023-04-18 14:13:51,029 :INFO :test_e2e :Getting the all cart titles
+2023-04-18 14:13:51,051 :INFO :test_e2e :Cart text is : iphone X
+2023-04-18 14:13:51,061 :INFO :test_e2e :Cart text is : Samsung Note 8
+2023-04-18 14:13:51,071 :INFO :test_e2e :Cart text is : Nokia Edge
+2023-04-18 14:13:51,080 :INFO :test_e2e :Cart text is : Blackberry
+2023-04-18 14:13:51,210 :INFO :test_e2e :Entering Country Name as in Ind
+2023-04-18 14:13:56,450 :INFO :test_e2e :Text received from application is : ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-04-18 14:14:00,406 :INFO :test_formSubmission :Name is : Parvinder
+2023-04-18 14:14:00,489 :INFO :test_formSubmission :emailID is : parvinder@gmail.com
+2023-04-18 14:14:00,643 :INFO :test_formSubmission :Gender is : Female
+2023-04-18 14:14:30,056 :INFO :test_e2e :Getting the all cart titles
+2023-04-18 14:14:30,079 :INFO :test_e2e :Cart text is : iphone X
+2023-04-18 14:14:30,091 :INFO :test_e2e :Cart text is : Samsung Note 8
+2023-04-18 14:14:30,100 :INFO :test_e2e :Cart text is : Nokia Edge
+2023-04-18 14:14:30,109 :INFO :test_e2e :Cart text is : Blackberry
+2023-04-18 14:14:30,237 :INFO :test_e2e :Entering Country Name as in Ind
+2023-04-18 14:14:35,438 :INFO :test_e2e :Text received from application is : ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-04-18 14:14:39,422 :INFO :test_formSubmission :Name is : Parvinder
+2023-04-18 14:14:39,530 :INFO :test_formSubmission :emailID is : parvinder@gmail.com
+2023-04-18 14:14:39,740 :INFO :test_formSubmission :Gender is : Female
+2023-04-18 14:15:12,681 :INFO :test_e2e :Getting the all cart titles
+2023-04-18 14:15:12,699 :INFO :test_e2e :Cart text is : iphone X
+2023-04-18 14:15:12,708 :INFO :test_e2e :Cart text is : Samsung Note 8
+2023-04-18 14:15:12,719 :INFO :test_e2e :Cart text is : Nokia Edge
+2023-04-18 14:15:12,728 :INFO :test_e2e :Cart text is : Blackberry
+2023-04-18 14:15:12,869 :INFO :test_e2e :Entering Country Name as in Ind
+2023-04-18 14:15:18,196 :INFO :test_e2e :Text received from application is : ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-04-18 14:15:24,256 :INFO :test_formSubmission :Name is : Parvinder
+2023-04-18 14:15:24,315 :INFO :test_formSubmission :emailID is : parvinder@gmail.com
+2023-04-18 14:15:24,492 :INFO :test_formSubmission :Gender is : Female
+2023-04-18 14:15:42,056 :INFO :test_e2e :Getting the all cart titles
+2023-04-18 14:15:42,082 :INFO :test_e2e :Cart text is : iphone X
+2023-04-18 14:15:42,095 :INFO :test_e2e :Cart text is : Samsung Note 8
+2023-04-18 14:15:42,104 :INFO :test_e2e :Cart text is : Nokia Edge
+2023-04-18 14:15:42,114 :INFO :test_e2e :Cart text is : Blackberry
+2023-04-18 14:15:42,234 :INFO :test_e2e :Entering Country Name as in Ind
+2023-04-18 14:15:47,499 :INFO :test_e2e :Text received from application is : ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-04-18 14:15:51,489 :INFO :test_formSubmission :Name is : Parvinder
+2023-04-18 14:15:51,567 :INFO :test_formSubmission :emailID is : parvinder@gmail.com
+2023-04-18 14:15:51,740 :INFO :test_formSubmission :Gender is : Female
